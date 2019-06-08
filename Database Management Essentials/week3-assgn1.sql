@@ -1,0 +1,1 @@
+SELECT distinct(CustCity),CustState,CustZip from customer;
